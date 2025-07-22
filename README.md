@@ -23,6 +23,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhailahmedaamro&show_icons=true&theme=radical" width="48%"/>
+<br>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhailahmedaamro&theme=radical" width="48%"/>
 </p>
 
