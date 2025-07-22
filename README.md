@@ -19,13 +19,16 @@
 
 ---
 
-### 📈 My GitHub Stats:
+
+
+### 📊 GitHub Insights
+
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhailahmedaamro&show_icons=true&theme=radical" width="48%"/>
-<br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhailahmedaamro&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailahmedaamro&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
 
 ---
 
